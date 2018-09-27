@@ -44,8 +44,6 @@ def bfs(startCoord, coordSet):
 
     return res
 
-
-
 grid1 = [
     "101", 
     "110", 
